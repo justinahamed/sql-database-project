@@ -1,4 +1,4 @@
-# Restaurant Database Project
+# Restaurant SQL Database Project
 
 ## Overview
 Designed and implemented a PostgreSQL database to manage restaurant customer, order, and menu data. The system supports business analysis by organizing transactional data into a structured relational schema.
