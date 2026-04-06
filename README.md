@@ -21,9 +21,9 @@ Designed and implemented a PostgreSQL database to manage restaurant customer, or
 - Created a view (`HIGH_SPENDERS`) to identify high-value customers
 
 ## SQL Files
-- `schema.sql` – table creation, constraints, triggers, indexes, and view
-- `data.sql` – sample data inserts
-- `queries.sql` – analytical queries
+- `ProjectDDL.sql` – table creation, constraints, triggers, indexes, and view
+- `ProjectDML.sql` – sample data inserts
+- `ProjectQueries.sql` – analytical queries
 
 ## Example Queries
 - Identify most popular menu items
